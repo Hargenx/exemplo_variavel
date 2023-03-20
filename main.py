@@ -3,10 +3,12 @@ import if_comprendendo as compreende
 import if_entendendo as entende
 import exemplo_time as tempo
 import exemplo_calendar as ec
+import exercicio_recebe
 
 if __name__ == "__main__":
-  revisa
+  '''revisa
   compreende.funcao_if()
   entende.funcao_if()
   tempo.tempo()
-  ec.calendario()
+  ec.calendario()'''
+  exercicio_recebe
